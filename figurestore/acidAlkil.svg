@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   baseProfile="full"
+   id="body"
+   width="8in"
+   height="8in"
+   viewBox="0 0 1 1"
+   preserveAspectRatio="none"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="acidAlkil.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <metadata
+     id="metadata140">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs138">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 360 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="720 : 360 : 1"
+       inkscape:persp3d-origin="360 : 240 : 1"
+       id="perspective142" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-height="727"
+     inkscape:window-width="1280"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     showgrid="false"
+     inkscape:zoom="1.8306209"
+     inkscape:cx="292.12253"
+     inkscape:cy="479.6546"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:current-layer="content" />
+  <title
+     id="title3">SVG drawing</title>
+  <desc
+     id="desc5">This was produced by version 4.2 of GNU libplot, a free library for exporting 2-D vector graphics.</desc>
+  <g
+     id="content"
+     transform="translate(-0.03125,1.1875) scale(1,-1) scale(0.0017361) "
+     xml:space="preserve"
+     stroke="black"
+     stroke-linecap="butt"
+     stroke-linejoin="miter"
+     stroke-miterlimit="10.433"
+     stroke-dasharray="none"
+     stroke-dashoffset="0"
+     stroke-opacity="1"
+     fill="none"
+     fill-rule="even-odd"
+     fill-opacity="1"
+     font-style="normal"
+     font-variant="normal"
+     font-weight="normal"
+     font-stretch="normal"
+     font-size-adjust="none"
+     letter-spacing="normal"
+     word-spacing="normal"
+     text-anchor="start">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<text
+   transform="scale(1,-1)"
+   font-size="20px"
+   id="text33"
+   x="93.294807"
+   y="-500.39105"
+   style="font-size:11.92959976px;fill:#000000;stroke:none;font-family:'Helvetica,sans-serif'">O</text>
+
+
+<text
+   transform="scale(1,-1)"
+   font-size="20px"
+   id="text35"
+   x="103.56882"
+   y="-499.95404"
+   style="font-size:11.92959976px;fill:#000000;stroke:none;font-family:'Helvetica,sans-serif'">H</text>
+
+
+<text
+   transform="scale(1,-1)"
+   font-size="20px"
+   id="text37"
+   x="113.65494"
+   y="-496.45792"
+   style="font-size:11.92959976px;fill:#000000;stroke:none;font-family:'Helvetica,sans-serif'"><tspan
+     style="font-size:7px"
+     id="tspan2451">(aq)</tspan></text>
+
+
+
+
+
+
+
+
+
+
+<line
+   x1="177.85974"
+   y1="505.03568"
+   x2="204.67056"
+   y2="505.03568"
+   id="line51"
+   style="stroke-width:0.4743478" />
+<polygon
+   points="355.39,422.44 357.59,422.44 355.39,424.12 362.88,422.44 355.39,420.75 357.59,422.44 355.39,422.44 "
+   id="polygon53"
+   transform="matrix(0.4409668,0,0,1.0417252,47.95521,64.969257)"
+   style="fill:#000000;stroke-width:0" />
+<polygon
+   points="355.39,422.44 357.59,422.44 355.39,424.12 362.88,422.44 355.39,420.75 357.59,422.44 355.39,422.44 "
+   id="polygon55"
+   transform="matrix(0.4409668,0,0,1.0417252,47.95521,64.969257)"
+   style="stroke-width:0.69986999" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<text
+   transform="scale(1,-1)"
+   font-size="20px"
+   id="text135"
+   x="130.44258"
+   y="-500.65051"
+   style="font-size:17.79500008px;fill:#000000;stroke:none;font-family:'Helvetica,sans-serif'">+</text>
+
+
+<text
+   transform="scale(1,-1)"
+   font-size="20px"
+   id="text2449"
+   x="85.65123"
+   y="-507.30435"
+   style="font-size:11.92959976px;fill:#000000;stroke:none;font-family:'Helvetica,sans-serif'"><tspan
+     style="font-size:20px"
+     id="tspan2459">-</tspan></text>
+<text
+   transform="scale(1,-1)"
+   font-size="20px"
+   id="text2453"
+   x="147.4296"
+   y="-500.21442"
+   style="font-size:11.92959976px;fill:#000000;stroke:none;font-family:'Helvetica,sans-serif'">H</text>
+<text
+   transform="scale(1,-1)"
+   font-size="20px"
+   id="text2455"
+   x="157.51569"
+   y="-496.71829"
+   style="font-size:11.92959976px;fill:#000000;stroke:none;font-family:'Helvetica,sans-serif'"><tspan
+     style="font-size:7px"
+     id="tspan2457">(aq)</tspan></text>
+<text
+   transform="scale(1,-1)"
+   font-size="20px"
+   id="text2461"
+   x="158.7307"
+   y="-507.08008"
+   style="font-size:17.79500008px;fill:#000000;stroke:none;font-family:'Helvetica,sans-serif'"><tspan
+     style="font-size:15px"
+     id="tspan2463">+</tspan></text>
+<text
+   transform="scale(1,-1)"
+   font-size="20px"
+   id="text2465"
+   x="219.37405"
+   y="-501.74734"
+   style="font-size:11.92959976px;fill:#000000;stroke:none;font-family:'Helvetica,sans-serif'">O</text>
+<text
+   transform="scale(1,-1)"
+   font-size="20px"
+   id="text2467"
+   x="229.64804"
+   y="-501.31033"
+   style="font-size:11.92959976px;fill:#000000;stroke:none;font-family:'Helvetica,sans-serif'">H</text>
+<text
+   transform="scale(1,-1)"
+   font-size="20px"
+   id="text2469"
+   x="239.07114"
+   y="-497.32132"
+   style="font-size:11.92959976px;fill:#000000;stroke:none;font-family:'Helvetica,sans-serif'"><tspan
+     style="font-size:7px"
+     id="tspan2471">2</tspan></text>
+</g></svg>

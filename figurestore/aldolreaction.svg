@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   baseProfile="full"
+   id="body"
+   width="8in"
+   height="8in"
+   viewBox="0 0 1 1"
+   preserveAspectRatio="none"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="aldolreaction.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <metadata
+     id="metadata140">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs138">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 360 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="720 : 360 : 1"
+       inkscape:persp3d-origin="360 : 240 : 1"
+       id="perspective142" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-height="727"
+     inkscape:window-width="1280"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     showgrid="false"
+     inkscape:zoom="1.8306209"
+     inkscape:cx="283.82426"
+     inkscape:cy="433.82226"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:current-layer="content" />
+  <title
+     id="title3">SVG drawing</title>
+  <desc
+     id="desc5">This was produced by version 4.2 of GNU libplot, a free library for exporting 2-D vector graphics.</desc>
+  <g
+     id="content"
+     transform="translate(-0.03125,1.1875) scale(1,-1) scale(0.0017361) "
+     xml:space="preserve"
+     stroke="black"
+     stroke-linecap="butt"
+     stroke-linejoin="miter"
+     stroke-miterlimit="10.433"
+     stroke-dasharray="none"
+     stroke-dashoffset="0"
+     stroke-opacity="1"
+     fill="none"
+     fill-rule="even-odd"
+     fill-opacity="1"
+     font-style="normal"
+     font-variant="normal"
+     font-weight="normal"
+     font-stretch="normal"
+     font-size-adjust="none"
+     letter-spacing="normal"
+     word-spacing="normal"
+     text-anchor="start">
+<line
+   x1="164.9"
+   y1="422.44"
+   x2="184.69"
+   y2="422.44"
+   stroke-width="0.69987"
+   id="line9" />
+<line
+   x1="167.2"
+   y1="425.91"
+   x2="182.4"
+   y2="425.91"
+   stroke-width="0.69987"
+   id="line11" />
+<text
+   transform="translate(194.79,431.78) scale(1,-1) scale(0.59648) "
+   font-family="Helvetica,sans-serif"
+   font-size="20px"
+   stroke="none"
+   fill="black"
+   id="text13">X</text>
+
+
+<text
+   transform="scale(1,-1)"
+   font-size="20px"
+   id="text17"
+   x="204.28983"
+   y="-429.79913"
+   style="font-size:5.96479988px;fill:#000000;stroke:none;font-family:'Helvetica,sans-serif'">3</text>
+
+
+<line
+   x1="184.69"
+   y1="422.44"
+   x2="193.4"
+   y2="431.29"
+   stroke-width="0.69987"
+   id="line21" />
+<text
+   transform="translate(194.79,403.85) scale(1,-1) scale(0.59648) "
+   font-family="Helvetica,sans-serif"
+   font-size="20px"
+   stroke="none"
+   fill="black"
+   id="text23">X</text>
+
+
+<text
+   transform="scale(1,-1)"
+   font-size="20px"
+   id="text27"
+   x="204.99001"
+   y="-401.08002"
+   style="font-size:5.96479988px;fill:#000000;stroke:none;font-family:'Helvetica,sans-serif'">2</text>
+
+
+<line
+   x1="184.69"
+   y1="422.44"
+   x2="193.4"
+   y2="413.79"
+   stroke-width="0.69987"
+   id="line31" />
+<text
+   transform="translate(133.5,431.78) scale(1,-1) scale(0.59648) "
+   font-family="Helvetica,sans-serif"
+   font-size="20px"
+   stroke="none"
+   fill="black"
+   id="text33">O</text>
+
+<text
+   transform="translate(142.9,431.78) scale(1,-1) scale(0.59648) "
+   font-family="Helvetica,sans-serif"
+   font-size="20px"
+   stroke="none"
+   fill="black"
+   id="text35">L</text>
+
+<text
+   transform="translate(149.49,431.78) scale(1,-1) scale(0.59648) "
+   font-family="Helvetica,sans-serif"
+   font-size="20px"
+   stroke="none"
+   fill="black"
+   id="text37">i</text>
+
+<line
+   x1="164.9"
+   y1="422.44"
+   x2="153.4"
+   y2="433.87"
+   stroke-width="0.69987"
+   id="line39" />
+<text
+   transform="translate(146.9,403.85) scale(1,-1) scale(0.59648) "
+   font-family="Helvetica,sans-serif"
+   font-size="20px"
+   stroke="none"
+   fill="black"
+   id="text41">X</text>
+
+
+<text
+   transform="scale(1,-1)"
+   font-size="20px"
+   id="text45"
+   x="156.50006"
+   y="-401.45999"
+   style="font-size:5.96479988px;fill:#000000;stroke:none;font-family:'Helvetica,sans-serif'">1</text>
+
+
+<line
+   x1="164.9"
+   y1="422.44"
+   x2="156"
+   y2="413.79"
+   stroke-width="0.69987"
+   id="line49" />
+<line
+   x1="294.59"
+   y1="422.44"
+   x2="355.39"
+   y2="422.44"
+   stroke-width="0.69987"
+   id="line51" />
+<polygon
+   points="355.39,422.44 357.59,422.44 355.39,424.12 362.88,422.44 355.39,420.75 357.59,422.44 "
+   stroke-width="0"
+   fill="black"
+   id="polygon53" />
+<polygon
+   points="355.39,422.44 357.59,422.44 355.39,424.12 362.88,422.44 355.39,420.75 357.59,422.44 "
+   stroke-width="0.69987"
+   id="polygon55" />
+<text
+   transform="translate(253.99,435.26) scale(1,-1) scale(0.59648) "
+   font-family="Helvetica,sans-serif"
+   font-size="20px"
+   stroke="none"
+   fill="black"
+   id="text57">O</text>
+
+<line
+   x1="256.89"
+   y1="433.87"
+   x2="256.89"
+   y2="419.95"
+   stroke-width="0.69987"
+   id="line59" />
+<line
+   x1="260.39"
+   y1="433.87"
+   x2="260.39"
+   y2="419.85"
+   stroke-width="0.69987"
+   id="line61" />
+<text
+   transform="translate(237.39,405.83) scale(1,-1) scale(0.59648) "
+   font-family="Helvetica,sans-serif"
+   font-size="20px"
+   stroke="none"
+   fill="black"
+   id="text63">X</text>
+
+
+<text
+   transform="scale(1,-1)"
+   font-size="20px"
+   id="text67"
+   x="248.59009"
+   y="-401.85001"
+   style="font-size:5.96479988px;fill:#000000;stroke:none;font-family:'Helvetica,sans-serif'">4</text>
+
+
+<line
+   x1="258.59"
+   y1="420.25"
+   x2="246.59"
+   y2="413.59"
+   stroke-width="0.69987"
+   id="line71" />
+<line
+   x1="258.59"
+   y1="420.25"
+   x2="270.19"
+   y2="413.59"
+   stroke-width="0.69987"
+   id="line73" />
+<text
+   transform="translate(271.59,405.73) scale(1,-1) scale(0.59648) "
+   font-family="Helvetica,sans-serif"
+   font-size="20px"
+   stroke="none"
+   fill="black"
+   id="text75">P</text>
+
+<text
+   transform="translate(279.69,405.73) scale(1,-1) scale(0.59648) "
+   font-family="Helvetica,sans-serif"
+   font-size="20px"
+   stroke="none"
+   fill="black"
+   id="text77">h</text>
+
+<text
+   transform="translate(397.48,444.61) scale(1,-1) scale(0.59648) "
+   font-family="Helvetica,sans-serif"
+   font-size="20px"
+   stroke="none"
+   fill="black"
+   id="text79">O</text>
+
+<line
+   x1="400.38"
+   y1="443.21"
+   x2="400.38"
+   y2="429.3"
+   stroke-width="0.69987"
+   id="line81" />
+<line
+   x1="403.88"
+   y1="443.21"
+   x2="403.88"
+   y2="429.1"
+   stroke-width="0.69987"
+   id="line83" />
+<text
+   transform="translate(380.88,415.18) scale(1,-1) scale(0.59648) "
+   font-family="Helvetica,sans-serif"
+   font-size="20px"
+   stroke="none"
+   fill="black"
+   id="text85">X</text>
+
+
+<text
+   transform="scale(1,-1)"
+   font-size="20px"
+   id="text89"
+   x="390.48007"
+   y="-412.79001"
+   style="font-size:5.96479988px;fill:#000000;stroke:none;font-family:'Helvetica,sans-serif'">4</text>
+
+
+<line
+   x1="402.08"
+   y1="429.59"
+   x2="390.08"
+   y2="422.93"
+   stroke-width="0.69987"
+   id="line93" />
+<line
+   x1="402.08"
+   y1="429.59"
+   x2="419.08"
+   y2="419.75"
+   stroke-width="0.69987"
+   id="line95" />
+<line
+   x1="419.08"
+   y1="419.75"
+   x2="438.88"
+   y2="419.75"
+   stroke-width="0.69987"
+   id="line97" />
+<line
+   x1="421.38"
+   y1="423.23"
+   x2="436.58"
+   y2="423.23"
+   stroke-width="0.69987"
+   id="line99" />
+<text
+   transform="translate(448.98,401.16) scale(1,-1) scale(0.59648) "
+   font-family="Helvetica,sans-serif"
+   font-size="20px"
+   stroke="none"
+   fill="black"
+   id="text101">X</text>
+
+
+<text
+   transform="scale(1,-1)"
+   font-size="20px"
+   id="text105"
+   x="459.18002"
+   y="-398.40002"
+   style="font-size:5.96479988px;fill:#000000;stroke:none;font-family:'Helvetica,sans-serif'">2</text>
+
+
+<line
+   x1="438.88"
+   y1="419.75"
+   x2="447.58"
+   y2="411.1"
+   stroke-width="0.69987"
+   id="line109" />
+<text
+   transform="translate(409.98,396.09) scale(1,-1) scale(0.59648) "
+   font-family="Helvetica,sans-serif"
+   font-size="20px"
+   stroke="none"
+   fill="black"
+   id="text111">X</text>
+
+
+<text
+   transform="scale(1,-1)"
+   font-size="20px"
+   id="text115"
+   x="419.98004"
+   y="-393.33002"
+   style="font-size:5.96479988px;fill:#000000;stroke:none;font-family:'Helvetica,sans-serif'">1</text>
+
+
+<line
+   x1="419.08"
+   y1="419.75"
+   x2="415.48"
+   y2="406.73"
+   stroke-width="0.69987"
+   id="line119" />
+<text
+   transform="translate(448.98,429.1) scale(1,-1) scale(0.59648) "
+   font-family="Helvetica,sans-serif"
+   font-size="20px"
+   stroke="none"
+   fill="black"
+   id="text121">X</text>
+
+
+<text
+   transform="scale(1,-1)"
+   font-size="20px"
+   id="text125"
+   x="458.60205"
+   y="-427.37799"
+   style="font-size:5.96479988px;fill:#000000;stroke:none;font-family:'Helvetica,sans-serif'">3</text>
+
+
+<line
+   x1="438.88"
+   y1="419.75"
+   x2="447.58"
+   y2="428.6"
+   stroke-width="0.69987"
+   id="line129" />
+<polygon
+   points="213.79,411.7 224.99,411.7 224.99,432.48 213.79,432.48 "
+   stroke="white"
+   stroke-width="0"
+   fill="white"
+   id="polygon131" />
+<polygon
+   points="213.79,411.7 224.99,411.7 224.99,432.48 213.79,432.48 "
+   stroke="white"
+   stroke-width="0.216"
+   id="polygon133" />
+<text
+   transform="translate(214.49,415.87) scale(1,-1) scale(0.88975) "
+   font-family="Helvetica,sans-serif"
+   font-size="20px"
+   stroke="none"
+   fill="black"
+   id="text135">+</text>
+
+</g></svg>
